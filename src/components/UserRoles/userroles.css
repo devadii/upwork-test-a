@@ -1,0 +1,70 @@
+.userrole {
+  min-width: 100%;
+  min-height: 100%;
+  padding: 15px;
+}
+
+.userrole h1 {
+  margin-bottom: 20px;
+  color: #5b5959;
+}
+
+.roles_person {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.roles_person p {
+  margin-right: 10px;
+}
+
+.userrole h2 {
+  color: #5b5959;
+  margin-bottom: 20px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table td,
+table th {
+  padding: 15px;
+}
+
+table thead th {
+  background-color: #fbf207;
+  font-weight: bold;
+  font-size: 16px;
+  border: 1px solid black;
+}
+
+table tbody td {
+  color: black;
+  border: 1px solid black;
+  text-align: center;
+}
+
+table tbody tr {
+  background-color: #f9fafb;
+}
+
+.role-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.role-input input {
+  margin-right: 5px;
+}
+
+.userrole button {
+  margin-top: 20px;
+  background-color: #0a549f;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}

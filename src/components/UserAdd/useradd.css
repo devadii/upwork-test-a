@@ -1,0 +1,39 @@
+.useradd {
+  padding: 15px;
+}
+
+.useradd h2 {
+  margin-bottom: 20px;
+}
+
+.useradd button {
+  margin-top: 20px;
+  background-color: #0a549f;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.useradd .input {
+  display: flex;
+  align-items: center;
+}
+
+.useradd .input p {
+  margin-right: 8px;
+}
+
+.useradd .input input {
+  padding: 6px;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+.useradd input {
+  margin: 0;
+}
+
+.useradd .input {
+  margin-bottom: 15px;
+}
